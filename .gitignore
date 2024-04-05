@@ -22,3 +22,7 @@ logs
 .env
 .env.*
 !.env.example
+
+# Places mock json files
+assets/places/*
+!assets/places/.gitkeep
